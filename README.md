@@ -34,7 +34,9 @@ This project was built to **practice core JavaScript concepts**, including:
 - Event handling  
 - Arrays and objects  
 - localStorage  
-- Writing clean and readable code  
+- Writing clean and readable code
+
+  <p>Author -- codeAnjum </p>
 
 
 
